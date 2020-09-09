@@ -40,6 +40,9 @@
      <a href="#">
     <img src="https://raw.githubusercontent.com/mirlindm/mirlindm/master/svg/dev/languages/fsharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
+    <a href="#">
+    <img src="https://raw.githubusercontent.com/mirlindm/mirlindm/master/svg/dev/services/npm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
   
      
 
