@@ -18,7 +18,6 @@
 ## Tech
 
 <p align="center">
- 
       <a href="#">
    <img src="https://raw.githubusercontent.com/mirlindm/mirlindm/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a> 
