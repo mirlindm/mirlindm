@@ -9,12 +9,6 @@
 * Be kind to one another!
 
 
-
-![Mirlind's github stats](https://github-readme-stats.vercel.app/api?username=mirlindm&show_icons=true&count_private=false&include_all_commits=true&hide=issues,contribs)
-
-
-
-
 ## Tech
 
 <p align="center">
