@@ -81,7 +81,7 @@
  </p>
  <br/> <br/>
 
-<h1 align="center> Social </h1>
+## Social
 <p align="center">
   <a href="https://www.instagram.com/mirlindmurati/">
    <img src="https://raw.githubusercontent.com/mirlindm/mirlindm/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
