@@ -79,8 +79,8 @@
    <img src="https://raw.githubusercontent.com/mirlindm/mirlindm/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>   
  </p>
- 
- <br/>
+ <br/> <br/>
+
 ## Social
 <p align="center">
   <a href="https://www.instagram.com/mirlindmurati/">
