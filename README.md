@@ -8,6 +8,9 @@
 * Photography & Travel Passionate
 * Be kind to one another!
 
+<a href="https://lon9.github.io">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirlindm&hide=jupyter%20notebook" />
+</a>
 
 ## Tech
 
