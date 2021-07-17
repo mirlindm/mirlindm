@@ -2,7 +2,7 @@
 
 * Living in Estonia
 * Masters of Software Engineering - Specializing in Enterprise Software
-* Software Developer Intern at Kuehne+Nagel 
+* Software Engineer at Kuehne+Nagel 
 * Tech and Science Enthusiast
 * On my way to becoming a Full-Stack Software Developer
 * Photography & Travel Passionate
