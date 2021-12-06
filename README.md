@@ -3,7 +3,7 @@
 * Living in Estonia
 * Software Engineer at Kuehne+Nagel
 * Frontend and Agile Evangelist
-* Masters of Software Engineering - Specialized in Enterprise Software
+* Masters of Software Engineering - Specialized in Enterprise Software @ University of Tartu 🇪🇪
 * Tech and Science Enthusiast
 * Photography & Travel Passionate
 * Always choose kindness!
