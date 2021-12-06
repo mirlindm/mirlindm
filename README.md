@@ -1,12 +1,12 @@
 ### Hi there, 👋 - I am Mirlind
 
 * Living in Estonia
-* Masters of Software Engineering - Specializing in Enterprise Software
-* Software Engineer at Kuehne+Nagel 
+* Software Engineer at Kuehne+Nagel
+* Frontend and Agile Evangelist
+* Masters of Software Engineering - Specialized in Enterprise Software
 * Tech and Science Enthusiast
-* On my way to becoming a Full-Stack Software Developer
 * Photography & Travel Passionate
-* Be kind to one another!
+* Always choose kindness!
 
 <a href="https://lon9.github.io">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirlindm&hide=jupyter%20notebook" />
