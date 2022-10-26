@@ -1,7 +1,7 @@
 ### Hi there, 👋 - I am Mirlind
 
 * Living in Estonia
-* Software Engineer at Kuehne+Nagel
+* Software Engineer at Bigbank
 * Frontend and Agile Evangelist
 * Masters of Software Engineering - Specialized in Enterprise Software @ University of Tartu 🇪🇪
 * Tech and Science Enthusiast
