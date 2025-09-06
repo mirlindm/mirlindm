@@ -1,12 +1,11 @@
 ### Hi there, 👋 - I am Mirlind
 
 * Living in Estonia
-* Software Engineer at Bigbank
+* Software Engineer at Sensor Tower (VGI team)
 * Frontend and Agile Evangelist
 * Masters of Software Engineering - Specialized in Enterprise Software @ University of Tartu 🇪🇪
 * Tech and Science Enthusiast
-* Photography & Travel Passionate
-* Always choose kindness!
+* Photography, Padel & Travel Passionate
 
 <a href="https://lon9.github.io">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirlindm&hide=jupyter%20notebook" />
